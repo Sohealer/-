@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;}
+.container-fluid{padding: 0;}
+.mystyle{padding-left: 100px;}
+/* 重写轮播指示器的样式 */
+			.carousel-indicators li{
+				width: .8rem;height: .8rem;
+				border-radius: 50%;
+				background-color: #fff;
+				margin:0px 0.25rem;
+			}
+			.carousel-indicators .active {
+			  background-color: #0aa1ed;
+			}
+
+			.pl_8{padding-left: 80px !important;}
+			.mytext{font-size: 30px;}
+			
+			
+			
+			
